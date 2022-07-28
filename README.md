@@ -1,2 +1,2 @@
-# exam1
+# exam
 exam point view
